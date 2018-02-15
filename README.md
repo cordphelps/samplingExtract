@@ -2,9 +2,7 @@
 
 
 
-## precision farming sampling extract from 
-
-[Spatial Data Analysis in Ecology and Agriculture using R](http://www.plantsciences.ucdavis.edu/plant/sda.htm)
+## precision farming sampling extract from [Spatial Data Analysis in Ecology and Agriculture using R](http://www.plantsciences.ucdavis.edu/plant/sda.htm)
 
 ---
 
@@ -14,7 +12,7 @@ read data with R:
 
 ```R
 	> library(RCurl)
-	> source.url <- c("https://raw.githubusercontent.com/cordphelps/samplingExtract/master/data/Set4.296wheatyield.csv")
+	> source.url <- c("https://raw.githubusercontent.com/cordphelps/class/samplingExtract/master/data/Set4.296wheatyield.csv")
 	> dataframe.df <- read.csv(text=getURLContent(source.url), header=TRUE, row.names=1)
 ```
 ---
