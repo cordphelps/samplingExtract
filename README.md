@@ -7,12 +7,9 @@
 ---
 
 
-##
-read data with R:
-
 ```R
 	> library(RCurl)
-	> source.url <- c("https://raw.githubusercontent.com/cordphelps/class/samplingExtract/master/data/Set4.296wheatyield.csv")
+	> source.url <- c("https://raw.githubusercontent.com/cordphelps/class/samplingExtract/master/Set4.296wheatyield.csv")
 	> dataframe.df <- read.csv(text=getURLContent(source.url), header=TRUE, row.names=1)
 ```
 ---
