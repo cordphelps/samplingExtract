@@ -27,7 +27,7 @@ Data and Content distributed under the License is distributed on an "AS IS" BASI
 
 
 ## Content Author
- Richard Plant // [](http://www.plantsciences.ucdavis.edu/plant/index.htm)
+ Richard Plant // [UC Davis](http://www.plantsciences.ucdavis.edu/plant/index.htm)
 
 
 
