@@ -2,7 +2,7 @@
 
 
 
-## precision farming sampling extract from [Spatial Data Analysis in Ecology and Agriculture using R](http://www.plantsciences.ucdavis.edu/plant/sda.htm)
+## Geographic Stratified Sampling from [Spatial Data Analysis in Ecology and Agriculture using R](http://www.plantsciences.ucdavis.edu/plant/sda.htm)
 
 ---
 
