@@ -2,7 +2,7 @@
 
 
 
-## Geographic Stratified Sampling from [Spatial Data Analysis in Ecology and Agriculture using R](http://www.plantsciences.ucdavis.edu/plant/sda.htm)
+## Geographically Stratified Sampling from [Spatial Data Analysis in Ecology and Agriculture using R](http://www.plantsciences.ucdavis.edu/plant/sda.htm)
 
 ---
 
